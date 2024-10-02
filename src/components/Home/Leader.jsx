@@ -1,7 +1,7 @@
 import React from "react";
-import Leader1 from "./src/assets/images/leader1.jpg";
-import Leader2 from "./src/assets/images/leader2.jpg";
-import Leader3 from "./src/assets/images/leader3.png";
+import Leader1 from "../../assets/images/leader1.jpg";
+import Leader2 from "../../assets/images/leader2.jpg";
+import Leader3 from "../../assets/images/leader3.png";
 
 const leaders = [
   {

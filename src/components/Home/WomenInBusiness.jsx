@@ -1,10 +1,10 @@
-import Women1 from "./src/assets/images/women1.png";
-import Women2 from "./src/assets/images/women2.png";
-import Women3 from "./src/assets/images/women3.png";
-import Women4 from "./src/assets/images/women4.png";
-import Women5 from "./src/assets/images/women5.png";
-import Women6 from "./src/assets/images/women6.png";
-import WomenImage from "./src/assets/images/WomenImage.jpg";
+import Women1 from "../../assets/images/women1.png";
+import Women2 from "../../assets/images/women2.png";
+import Women3 from "../../assets/images/women3.png";
+import Women4 from "../../assets/images/women4.png";
+import Women5 from "../../assets/images/women5.png";
+import Women6 from "../../assets/images/women6.png";
+import WomenImage from "../../assets/images/WomenImage.jpg";
 
 const images = [
   {

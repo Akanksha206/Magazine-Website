@@ -1,9 +1,9 @@
-import Business1 from './src/assets/images/Business1.jpg'
-import Business2 from './src/assets/images/Business2.jpg'
-import Business3 from './src/assets/images/Business3.jpg'
-import Business4 from './src/assets/images/Business4.jpg'
-import Business5 from './src/assets/images/Business5.jpg'
-import Business6 from './src/assets/images/Business6.jpg'
+import Business1 from '../../assets/images/Business1.jpg'
+import Business2 from '../../assets/images/Business2.jpg'
+import Business3 from '../../assets/images/Business3.jpg'
+import Business4 from '../../assets/images/Business4.jpg'
+import Business5 from '../../assets/images/Business5.jpg'
+import Business6 from '../../assets/images/Business6.jpg'
 
 const images = [
     {

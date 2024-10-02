@@ -1,8 +1,8 @@
 import React from 'react'
-import hospitality1 from "./src/assets/images/hospitality1.jpg";
-import hospitality2 from "./src/assets/images/hospitality2.jpg";
-import hospitality3 from "./src/assets/images/hospitality3.jpg";
-import hospitality4 from "./src/assets/images/hospitality4.jpg";
+import hospitality1 from "../../assets/images/hospitality1.jpg";
+import hospitality2 from "../../assets/images/hospitality2.jpg";
+import hospitality3 from "../../assets/images/hospitality3.jpg";
+import hospitality4 from "../../assets/images/hospitality4.jpg";
 
 const leaders = [
     {

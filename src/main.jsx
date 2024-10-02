@@ -6,6 +6,7 @@ import Layout from './components/Layout'
 import Magazines from './components/Magazines/Magazines'
 import Home from './components/Home/Home'
 
+
 import Featured from './components/Featured/Featured'
 import Business from './components/Business/Business'
 import Testimonial from './components/Testimonial/Testimonial'
