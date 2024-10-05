@@ -26,6 +26,7 @@ const Hospitality = () => {
   return (
     <>
     <div className='px-10'>
+<<<<<<< HEAD
         <h1 className="text-4xl font-bold mb-5 mx-10 text-left">Hospitality</h1>
         <hr className="border-t-2 border-red-900 w-5/5 mx-10" />
         <p className="text-xl text-gray-500 mt-5 text-left mx-10">
@@ -33,6 +34,15 @@ const Hospitality = () => {
         </p>
       </div>
       <div className="container flex flex-col lg:flex-row justify-between items-center gap-8 m-24">
+=======
+        <h1 className="text-4xl font-bold mb-6 mx-10 text-left">Hospitality</h1>
+        <hr className="border-t-2 border-red-900 w-5/5 mx-10" />
+        <p className="text-xl text-gray-500 mt-9 text-left mb-6 mx-10">
+          #ArticesTalk
+        </p>
+      </div>
+      <div className="container flex flex-col lg:flex-row justify-between items-center gap-8 px-16 py-10">
+>>>>>>> bd302460380f90783fd2c225e168b04aacf7abc3
         {leaders.map((leader, index) => (
           <div key={index} className="flex flex-col items-center">
             <img src={leader.img} alt={leader.title} className="w-70 h-60 object-cover" />

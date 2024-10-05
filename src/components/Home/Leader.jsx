@@ -20,6 +20,7 @@ const leaders = [
 const Leader = () => {
   return (
     <>
+<<<<<<< HEAD
       <div className="flex items-center justify-center">
         <hr className="border-t-2 border-red-900 w-1/3 mx-2" />
         <span className="bg-red-900 text-white text-2xl w-36 font-bold py-1 px-8 rounded">Leaders</span>
@@ -27,6 +28,15 @@ const Leader = () => {
       </div>
 
       <div className="container  flex flex-col lg:flex-row justify-evenly m-28">
+=======
+      <div className="flex items-center justify-center my-4 mb-14">
+        <hr className="border-t-2 border-red-900 w-1/3 mx-2" />
+        <span className="bg-red-900 text-white text-2xl w-56 font-bold py-1 px-4">Leaders</span>
+        <hr className="border-t-2 border-red-900 w-1/3 mx-2" />
+      </div>
+
+      <div className="container  flex flex-col lg:flex-row justify-evenly">
+>>>>>>> bd302460380f90783fd2c225e168b04aacf7abc3
         {leaders.map((leader, index) => (
           <div key={index} className="flex flex-col w-50 items-center">
             <img

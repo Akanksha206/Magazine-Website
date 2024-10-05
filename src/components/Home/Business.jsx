@@ -48,9 +48,15 @@ const images = [
     return (
       <>
         <div className='px-10'>
+<<<<<<< HEAD
           <h1 className="text-4xl font-bold mb-5 text-left"> Business</h1>
           <hr className="border-t-2 border-red-900 w-5/5 mx-auto" />
           <p className="text-xl text-gray-900 mt-4 text-left mb-6">
+=======
+          <h1 className="text-4xl font-bold mb-6 text-left"> Business</h1>
+          <hr className="border-t-2 border-red-900 w-5/5 mx-auto" />
+          <p className="text-xl text-gray-900 mt-9 text-left mb-6">
+>>>>>>> bd302460380f90783fd2c225e168b04aacf7abc3
             #Business Blogs
           </p>
         </div>
